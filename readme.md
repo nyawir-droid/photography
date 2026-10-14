@@ -1,12 +1,8 @@
-
-What does my project do?To give inspirations to people who are interested im my work or anyone else.Also a project that demonstrates HTML,CSS and Javascript.
-
-
 # {A photo gallery project.}
 #### {A photo gallery}, {Date of current version}
 #### By **{Nyawira Njoroge and James }**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{What does my project do?To give inspirations to people who are interested im my work or anyone else.Also a project that demonstrates HTML,CSS and Javascript. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -24,6 +20,7 @@ What does my project do?To give inspirations to people who are interested im my 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
   
+
 
 
 
