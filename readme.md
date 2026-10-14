@@ -3,7 +3,7 @@
 #### By **{Nyawira Njoroge and James Junior. }**
 ## Description.
 {What does my project do?To give inspirations to people who are interested im my work or anyone else.Also a project that demonstrates HTML,CSS and Javascript. }
-## Setup/Installation Requirements
+## Setup/Installation Requirements.
 * This is a great place
 * to list setup instructions
 * in a simple
