@@ -1,6 +1,6 @@
 # {A photo gallery project.}
 #### {A photo gallery}, {1.0}
-#### By **{Nyawira Njoroge and James }**
+#### By **{Nyawira Njoroge and James Junior }**
 ## Description
 {What does my project do?To give inspirations to people who are interested im my work or anyone else.Also a project that demonstrates HTML,CSS and Javascript. }
 ## Setup/Installation Requirements
@@ -18,7 +18,7 @@
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {year} **{Nyawira Njoroge and James Junior}**
   
 
 
