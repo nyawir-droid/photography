@@ -26,7 +26,7 @@ Copyright (c) {year} **{Nyawira Njoroge and James Junior}**
 
 ## Q&A's.
 
-## text
+## text.
 
 
 
