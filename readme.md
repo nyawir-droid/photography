@@ -1,7 +1,7 @@
 # A photo gallery project
 
 
-Wh
+What does my project do?To 
 
 
 
