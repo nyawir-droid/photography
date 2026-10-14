@@ -24,7 +24,7 @@ Copyright (c) {year} **{Nyawira Njoroge and James Junior}**
 
 ## customization.
 
-## Q&A's
+## Q&A's.
 
 ## text
 
