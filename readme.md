@@ -22,7 +22,7 @@ Copyright (c) {year} **{Nyawira Njoroge and James Junior}**
   
   ## button.
 
-## customization
+## customization.
 
 ## Q&A's
 
