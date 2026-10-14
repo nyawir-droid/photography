@@ -1,5 +1,5 @@
 # {A photo gallery project.}
-#### {A photo gallery}, {Date of current version}
+#### {A photo gallery}, {1.0}
 #### By **{Nyawira Njoroge and James }**
 ## Description
 {What does my project do?To give inspirations to people who are interested im my work or anyone else.Also a project that demonstrates HTML,CSS and Javascript. }
