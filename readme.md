@@ -3,8 +3,8 @@ What does my project do?To give inspirations to people who are interested im my 
 
 
 # {A photo gallery project.}
-#### {Brief description of application}, {Date of current version}
-#### By **{Nyawira Njoroge and Jsmes }**
+#### {A photo gallery}, {Date of current version}
+#### By **{Nyawira Njoroge and James }**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
