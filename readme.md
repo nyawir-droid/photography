@@ -4,18 +4,18 @@
 ## Description.
 My project does give inspiration and displays my skills.
 ## Setup/Installation Requirements.
-* Install Node.js (v18 or newer) and npm/yarn
+* Install Node.js (v18 or newer)
 * Clone the project repository:
   `git clone <https://nyawir-droid.github.io/photography/>`
 * Navigate to the project folder:
   `cd <photography>`
 * Install project dependencies:
-  `npm install`
-* Create a `.env` file from the example file:
-  `cp .env.photography .env`
-* Update the environment variables in `.env` with your local configuration
+  `html install`
+* Create a `html` file from the example file:
+  `cp .photography .html`
+* Update the environment variables in `.html` with your local configuration
 * Start the development server:
-  `npm run dev`
+  `html run dev`
 * Open the app in your browser at:
   `https://nyawir-droid.github.io/photography/`
 
