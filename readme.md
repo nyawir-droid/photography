@@ -4,7 +4,7 @@
 ## Description.
 My project does give inspiration and displays my skills.
 ## Setup/Installation Requirements.
-* Install Node.js (v18 or newer)
+* Install Node.js (v18 or newer).
 * Clone the project repository:
   `git clone <https://nyawir-droid.github.io/photography/>`
 * Navigate to the project folder:
@@ -19,7 +19,7 @@ My project does give inspiration and displays my skills.
 * Open the app in your browser at:
   `https://nyawir-droid.github.io/photography/`
 
-Leave nothing to a crumbs of chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?
+Leave nothing to the crumbs of chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?
 ## Known Bugs.
 Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application.Let me know~.
 ## Technologies Used.
